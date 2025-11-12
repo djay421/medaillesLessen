@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F5AFBEDB-CBCA-48CB-A6DA-9F19BCCA2DBD}</ProjectGuid>
+    <ProjectGuid>{DB938A4C-D284-41D1-BBD3-640050EBA490}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MedaillesOpdracht</RootNamespace>
-    <AssemblyName>MedaillesOpdracht</AssemblyName>
+    <RootNamespace>MedaillesOpdracht2</RootNamespace>
+    <AssemblyName>MedaillesOpdracht2</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
