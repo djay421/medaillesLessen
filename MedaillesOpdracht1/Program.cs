@@ -15,11 +15,9 @@ namespace MedaillesOpdracht
 
             Console.WriteLine("hallo");
             Console.WriteLine("Wat is je naam?: ");
-            string Input = Console.ReadLine();
-            string naam = Input;
+            string naam = Console.ReadLine();
             Console.WriteLine("Wat is leeftijd?: ");
-            int leeftijdInput = Convert.ToInt32(Console.ReadLine());
-            int leeftijd = leeftijdInput;
+            int leeftijd = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Hoi, jouw naam is " + naam + " en je bent " + leeftijd + " jaar oud");
         }
     }
