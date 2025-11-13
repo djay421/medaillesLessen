@@ -20,7 +20,7 @@ namespace MedaillesOpdracht
             int leeftijd = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Hoi, jouw naam is " + naam + " en je bent " + leeftijd + " jaar oud");*/
 
-            Opdracht2 test = new Opdracht2();
+            Opdracht3 test = new Opdracht3();
 
             test.Start();
 

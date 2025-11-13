@@ -9,7 +9,7 @@ namespace MedaillesOpdracht
     internal class Opdracht2
     {
 
-        public void Start()
+       /* public void Start()
         {
             Console.WriteLine("Je staat in het begin. Wil je naar de Keuken, Woonkamer of Slaapkamer?");
             string kamer = Console.ReadLine();
@@ -71,7 +71,7 @@ namespace MedaillesOpdracht
                 Console.WriteLine("Onbekende kamer. Typ het goed");
             }
         }
-
+       */
     }
 }
 
