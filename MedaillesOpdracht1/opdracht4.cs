@@ -8,7 +8,8 @@ namespace MedaillesOpdracht
 
         public void Start()
         {
-            Console.WriteLine("In welk jaar ben je geboren?");
+            
+            /*Console.WriteLine("In welk jaar ben je geboren?");
             int geboorteJaar = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("In welke maand ben je geboren? (bijv. Januari)");
@@ -64,7 +65,7 @@ namespace MedaillesOpdracht
             }
 
             Console.WriteLine($"Je bent geboren op {geboortedatum:dd-MM-yyyy}.");
-            Console.WriteLine($"Je bent {leeftijd} jaar oud.");
+            Console.WriteLine($"Je bent {leeftijd} jaar oud."); */
         }
-    }
+    } 
 }
